@@ -5,7 +5,7 @@ Code accompanying:
 > [Active Subspaces in Infinite Dimension](https://virtual.aistats.org/virtual/2026/poster/13410), presented at The 29th International Conference on Artificial Intelligence and Statistics in 2026.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/NathanWycoff/inf_active/blob/main/notebooks/inf_active_colab_demo.ipynb
+https://colab.research.google.com/github/NathanWycoff/inf_active/blob/main/inf_active_colab_demo.ipynb
 )
 
 ## Quick example
